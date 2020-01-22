@@ -21,5 +21,5 @@
 
 # Data Science Central
 
-- A few things to take care of while building Shiny apps
-https://towardsdatascience.com/a-few-things-to-take-care-of-while-building-shiny-apps-888e4676090b **
+- **A few things to take care of while building Shiny apps**
+https://towardsdatascience.com/a-few-things-to-take-care-of-while-building-shiny-apps-888e4676090b
