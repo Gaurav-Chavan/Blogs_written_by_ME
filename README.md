@@ -1,5 +1,7 @@
 # Blogs written by me
 
+# Data Cated Challenge
+
 1. https://storybydata.com/datacated-weekly/computing-baseline-in-retail-data-science-perspective/
 
 2. https://storybydata.com/datacated-weekly/telling-a-story-with-rshiny-dashboard/
@@ -17,3 +19,7 @@
 8. https://storybydata.com/datacated-weekly/switching-from-linear-to-polynomial-regression/
 
 
+# Data Science Central
+
+- A few things to take care of while building Shiny apps
+https://towardsdatascience.com/a-few-things-to-take-care-of-while-building-shiny-apps-888e4676090b **
