@@ -23,3 +23,8 @@
 
 - **A few things to take care of while building Shiny apps**
 https://towardsdatascience.com/a-few-things-to-take-care-of-while-building-shiny-apps-888e4676090b
+
+- **Power of Parallel Processing in Data Science.**
+https://towardsdatascience.com/power-of-parallel-processing-in-data-science-ea64ec3dcd61
+
+
