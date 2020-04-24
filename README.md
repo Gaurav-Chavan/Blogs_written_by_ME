@@ -19,7 +19,7 @@
 8. https://storybydata.com/datacated-weekly/switching-from-linear-to-polynomial-regression/
 
 
-# Data Science Central
+# Towards Data Science
 
 - **A few things to take care of while building Shiny apps**
 https://towardsdatascience.com/a-few-things-to-take-care-of-while-building-shiny-apps-888e4676090b
