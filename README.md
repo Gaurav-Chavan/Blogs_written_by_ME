@@ -28,3 +28,15 @@ https://towardsdatascience.com/a-few-things-to-take-care-of-while-building-shiny
 https://towardsdatascience.com/power-of-parallel-processing-in-data-science-ea64ec3dcd61
 
 
+- **Introductory guide to KNIME and H2O Integration**
+https://towardsdatascience.com/introductory-guide-to-knime-and-h2o-integration-cb76c993946f
+
+- **Introductory Guide to Business Forecasting**
+https://towardsdatascience.com/introductory-guide-to-business-forecasting-bc84dc55968e
+
+- **Why you should follow open source Data Science**
+https://medium.com/@gauravgchavan/why-you-should-follow-open-source-data-science-f864ffcfad9a
+
+
+- **Key insights obtained by mining Gender Equality data using Tidyverse**
+https://towardsdatascience.com/key-insights-obtained-by-mining-gender-equality-data-using-tidyverse-e9b80a557c72
