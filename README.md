@@ -1,6 +1,6 @@
 # Blogs written by me
 
-# Data Cated Challenge
+# Data Cated Challenge [ Expired ]
 
 1. https://storybydata.com/datacated-weekly/computing-baseline-in-retail-data-science-perspective/
 
